@@ -1,0 +1,20 @@
+.calculator{
+	margin:15%;
+	border:2px solid;
+
+}
+
+#display{
+	width: 30%;
+    height: 70px;
+    font-size:25px;
+}
+
+.number{
+	height: 66px;
+    width: 7%;
+}
+
+.big{
+	width:
+}
